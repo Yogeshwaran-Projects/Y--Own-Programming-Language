@@ -1,0 +1,12 @@
+SAYIT "Welcome to Y++!"
+SAYIT "Let's do some math!"
+
+SAYIT "3 + 5 = " 3 SUMTHING 5
+SAYIT "10 - 5 = " 10 BYEBYE 5
+SAYIT "4 * 3 = " 4 LOTSOF 3
+SAYIT "10 / 2 = " 10 CUTIT 2
+
+SAYIT "Now let's try a more complex expression:"
+SAYIT "3 + 5 - 2 * 4 / 2 = " 3 SUMTHING 5 BYEBYE 2 LOTSOF 4 CUTIT 2
+
+SAYIT "Program finished. Goodbye!"
