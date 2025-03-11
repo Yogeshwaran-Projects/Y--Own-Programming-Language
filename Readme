@@ -1,1 +1,9 @@
 
+Improve error handling in Y++ parser
+
+- Added more descriptive syntax error messages
+- Included line and column numbers in error output
+- Improved unexpected token detection in the parser
+- Minor refactoring for better readability
+
+This makes debugging Y++ code easier by providing better insights into parsing failures.
