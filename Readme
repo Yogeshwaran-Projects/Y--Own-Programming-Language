@@ -13,7 +13,4 @@ It includes a **lexer, parser, AST, and execution engine**, making it a great fo
 ## Installation
 To build Y++, you need a C++ compiler (GCC/Clang).  
 
-```bash
-git clone https://github.com/yourusername/yplusplus.git
-cd yplusplus
-g++ -o ypp yplusplus.cpp -std=c++17
+
