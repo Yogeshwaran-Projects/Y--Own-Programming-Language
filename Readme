@@ -1,5 +1,2 @@
 Improve error handling in Y++ parser
 
-- Added more descriptive syntax error messages
-- Included line and column numbers in error output
-- Improved une
