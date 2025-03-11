@@ -1,2 +1,19 @@
-Add README.md with project details
+# Y++ Programming Language
 
+Y++ is a simple toy programming language built from scratch in C++.  
+It includes a **lexer, parser, AST, and execution engine**, making it a great foundation for understanding compiler design.
+
+## Features
+✅ Custom syntax similar to C++  
+✅ Tokenizer (Lexer) for breaking down code  
+✅ Recursive Descent Parser for syntax analysis  
+✅ Abstract Syntax Tree (AST) for program representation  
+✅ Execution engine to run Y++ code  
+
+## Installation
+To build Y++, you need a C++ compiler (GCC/Clang).  
+
+```bash
+git clone https://github.com/yourusername/yplusplus.git
+cd yplusplus
+g++ -o ypp yplusplus.cpp -std=c++17
